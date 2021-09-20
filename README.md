@@ -19,7 +19,6 @@ render() {
 ## Setup from scratch
 
 ```bash
-yarn
 npx create-react-app my-app
 cd my-app
 yarn
