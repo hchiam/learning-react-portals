@@ -16,7 +16,7 @@ render() {
 }
 ```
 
-## Setup
+## Setup from scratch
 
 ```bash
 yarn
@@ -25,6 +25,8 @@ cd my-app
 yarn
 yarn start
 ```
+
+Then set up the code like in [commit 00b8ef](https://github.com/hchiam/learning-react-portals/commit/00b8ef76ac2e4f44bc38cc13832dad4cfeddd23b).
 
 ## Helpful reference with React hooks
 
